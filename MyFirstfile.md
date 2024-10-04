@@ -1,4 +1,4 @@
-pip install notebook
+pip install notebook jupiture notebook
 
 To run the notebook:
 
